@@ -1,1 +1,3 @@
-This is the content of testfile01
+This is the content of testfile01.
+
+This is additional text
